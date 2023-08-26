@@ -11,12 +11,12 @@
           <img src="Project-Screenshots/3-userlogin.png" style="max-width:100%;"> 
       </a>
       <a >
-          <img src="Project-Screenshots/4-userregister" style="max-width:100%;"> 
+          <img src="Project-Screenshots/4-userregister.png" style="max-width:100%;"> 
       </a>
       <a >
-          <img src="Project-Screenshots/5-adminlogin" style="max-width:100%;"> 
+          <img src="Project-Screenshots/5-adminlogin.png" style="max-width:100%;"> 
       </a>
       <a >
-          <img src="Project-Screenshots/6-detail" style="max-width:100%;"> 
+          <img src="Project-Screenshots/6-detail.png" style="max-width:100%;"> 
       </a>
 </p>
